@@ -19,17 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['923216740469']
+global.premium = ['923216740469']
+global.ownernomer = '923216740469'
+global.ownername = '🐦Taskeen Baloch'
+global.botname = 'Taskeen official'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.region = 'Pakistan, Ryk, Khanpur'
+global.sc = 'https://github.com/nexusNw/Taskeen baloch'
+global.myweb = 'https://youtu.be/Ee4xhwQTc9k'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
